@@ -13,7 +13,9 @@ int main(int argc, char **argv) {
 
   printf("Hello World!\n");
 
-  printf("Dizzy D\n");
+  printf("Dizzy D!\n");
+
+  printf("Electical Engineering");
 
   return 0;
 }
