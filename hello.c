@@ -17,5 +17,9 @@ int main(int argc, char **argv) {
 
   printf("Electical Engineering");
 
+  printf("Max Swails");
+
+  printf("Computer Engineering");
+
   return 0;
 }
